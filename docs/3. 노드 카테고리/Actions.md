@@ -5,11 +5,11 @@
 
 
 
-Write 할 때, String
+Write 할 때, String은 Object Write에서 찾아야 함
 
 
 # Increment
-## ValueIncrement\<T>
+## `ValueIncrement<T>`
 
 연결된 Variable의 값을 1 증가 시킵니다.
 
