@@ -6,17 +6,22 @@
 
 문서 편집을 하고 싶다면, [문서 편집 방법](Others/문서%20편집%20방법.md)을 참조해 주세요.
 
-# ProtoFlu(x) Nodes
+# 기초 개념
+
+
+[[데이터 타입]]
+
+# Protoflu(x) 노드 전체 일람
 
 프로토플럭스 노드들에 대한 내용
 
-## [Actions](ProtoFlux/Actions/Actions.md)
+## [[Actions]]
 
-## [Assets](ProtoFlux/Assets/Assets.md)
+## [[Assets]]
 
-## [Avatars](ProtoFlux/Avatars/Avatars.md)
+## [[Avatars]]
 
-## [Casts](ProtoFlux/Casts/Casts.md)
+## [[Casts]]
 
-## [Color](ProtoFlux/Color/Color.md)
+## [[Color]]
 
